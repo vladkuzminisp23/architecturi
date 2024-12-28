@@ -1,0 +1,1346 @@
+:: StoryTitle
+пк
+
+
+:: StoryData
+{
+  "ifid": "E551CD0F-72A5-446F-A417-6CDF77FABC6E",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "start",
+  "zoom": 1
+}
+
+
+:: soft {"position":"1200,900","size":"100,100"}
+<div class="transparent-box">
+<button id="button1">RedOS</button>
+<button id="button2">PhpStorm 2023.1</button>
+<button id="button3">PyCharm 2023.1</button>
+<button id="button4">Notepad++ 8.5.3</button>
+<button id="button5">Sublime Text 3</button>
+<button id="button6">Firefox Developer Edition 114.0b9</button>
+<button id="button7">Chrome 114.0.5735.91</button>
+<button id="button8">Gimp 2.10.34</button>
+<button id="button9">Zeal 0.6.1</button>
+<button id="button10">Visual Studio Code 1.78</button>
+<button id="button11">AtomEditor 1.63.0</button>
+<button id="button12">WebStorm 2023.1</button>
+<button id="button13">Python 3.11.3</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://redos.red-soft.ru/";  // Замените на нужный URL
+});
+document.getElementById("button2").addEventListener("click", function() {
+    window.location.href = "https://www.jetbrains.com/ru-ru/phpstorm/whatsnew/2023-1/?ysclid=m56mog998h588423510";  // Замените на нужный URL
+});
+document.getElementById("button3").addEventListener("click", function() {
+    window.location.href = "https://www.jetbrains.com/ru-ru/pycharm/whatsnew/2023-1/?ysclid=m56mpuguko993921474";  // Замените на нужный URL
+});
+document.getElementById("button4").addEventListener("click", function() {
+    window.location.href = "https://notepad.sooftware.com/windows/download/353761";  // Замените на нужный URL
+});
+document.getElementById("button5").addEventListener("click", function() {
+    window.location.href = "https://www.sublimetext.com/3";  // Замените на нужный URL
+});
+document.getElementById("button6").addEventListener("click", function() {
+    window.location.href = "https://www.mozilla.org/ru/firefox/developer/";  // Замените на нужный URL
+});
+document.getElementById("button7").addEventListener("click", function() {
+    window.location.href = "https://softportal.su/version.php?id=36&page=84";  // Замените на нужный URL
+});
+document.getElementById("button8").addEventListener("click", function() {
+    window.location.href = "https://www.gimp.org/downloads/";  // Замените на нужный URL
+});
+document.getElementById("button9").addEventListener("click", function() {
+    window.location.href = "https://zealdocs.org/download.html";  // Замените на нужный URL
+});
+document.getElementById("button10").addEventListener("click", function() {
+    window.location.href = "https://code.visualstudio.com/updates/v1_78";  // Замените на нужный URL
+});
+document.getElementById("button11").addEventListener("click", function() {
+    window.location.href = "https://atom-editor.cc/";  // Замените на нужный URL
+});
+document.getElementById("button12").addEventListener("click", function() {
+    window.location.href = "https://www.jetbrains.com/ru-ru/webstorm/whatsnew/2023-1/?ysclid=m56n6q25zv456782623";  // Замените на нужный URL
+});
+document.getElementById("button13").addEventListener("click", function() {
+    window.location.href = "https://www.python.org/downloads/release/python-3113/";  // Замените на нужный URL
+});
+</script>
+
+
+(text-colour:black)[в обоих случаях у нас на компьютерах будет стоять операционая система redOS, так как она прописана в приложеном excel документу. Остальные приложения взяты из excel документа
+[[back рабочий|рабочий]]
+[[back самый дешевый |самый дешевый]]]
+</div>
+
+
+:: ssd m.2 {"position":"1400,1200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/5755e861-20e6-4117-b7e4-ee6e5e41029d/121212122121.PNG?previews[]=-256-preview@343x135" height='400'>
+<div class="transparent-box">
+<button id="button1">ssd m.2</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/1815ac731eaa42ae/1000-gb-m2-nvme-nakopitel-kingston-nv2-snv2s1000g/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Объём: 1024 ГБ. 
+Форм-фактор: M.2 2280. 
+Интерфейс: PCIe 4.0 x4. 
+Скорость: чтения до 3500 МБ/с, записи до 2100 МБ/с. 
+Ресурс: TBW 320 ТБ. 
+Время наработки на отказ: 2000000 ч. 
+Ударостойкость при хранении: 20 G. 
+Ударостойкость при работе: 2,17 G. 
+Размеры: толщина — 2,2 мм, длина — 80 мм, ширина — 22 мм. 
+Вес: 7 грамм.
+[[back|рекламный]]]
+</div>
+
+
+:: start {"position":"900,375","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[Добрый день! Как вы хотите собирать компьютер?
+[[узнать характеристики текущего пк]]
+[[собрать новый пк]]
+[[конец]]]
+</div>
+
+
+:: Мышка {"position":"1200,100","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/360c408d-fc40-479d-936c-9e761cb1ede2/image.png?previews[]=-256-preview@382x177" height='400'>
+<div class="transparent-box">
+<button id="button1">мышка</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.citilink.ru/product/mysh-oklick-125m-opticheskaya-provodnaya-usb-chernyi-1175317-1175317/?ysclid=m57sgd8xgv208148454";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Тип: оптическая, проводная, USB
+Сенсор: 1200 dpi
+Количество кнопок: 3; колесо прокрутки
+Дизайн: для правой и левой руки
+Длина провода: 1.6 м
+Размеры (ДхШхВ): 118 х 59 х 38 мм
+[[назад|узнать характеристики текущего пк]]]
+
+
+:: блок питания {"position":"700,1325","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/4fa006b3-ae53-4633-a5c0-93ae430dce6e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1231.PNG?previews[]=-256-preview@348x137" height='400'>
+<div class="transparent-box">
+<button id="button1">блок питания</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/8678ec31c0ce3330/blok-pitania-exegate-aaa350-es259589rus-s-seryj/";
+});
+</script>
+(text-colour:black)[характеристики
+---
+Мощность: 350 Вт. 
+Входное напряжение: 115–220 В. 
+Максимальный входной ток: 8 А. 
+Длина кабеля: 0,3 м. 1
+Размеры (ширина x высота x глубина): 150 x 86 x 110 мм. 
+Вес брутто: 0,75 кг.
+Охлаждение: 1 вентилятор диаметром 80 мм. 
+Уровень шума: 30–35 Дб. 
+Разъёмы: по одному разъёму 20 + 4 pin и 4 pin, 2 разъёма 15-pin SATA, 1 разъём 4-pin Molex.
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: блок питания1 {"position":"1400,1100","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/7047199f-4d78-474c-b06b-7c779a7a7496/22222.PNG?previews[]=-256-preview@343x132" height='400'>
+<div class="transparent-box">
+<button id="button1">блок питания</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/6939e8001dd0ed20/blok-pitania-cougar-gec-850-cgr-gc-850-cernyj/";
+});
+</script>
+(text-colour:black)[характеристики
+---
+Мощность: 850 Вт. 
+Форм-фактор: ATX. 
+Цвет: чёрный. 
+Основной разъём питания: 20+4 pin. 
+Разъёмы для питания процессора (CPU): 2 x 4+4 pin. 
+Разъёмы для питания видеокарты (PCI-E): 6 x 6+2 pin. 
+Количество разъёмов 15-pin SATA: 8. 
+Количество разъёмов 4-pin Molex: 4. 
+Разъём 4 pin Floppy: нет. 
+Диапазон входного напряжения сети: 200–240 В 47/63 Гц. 
+Система охлаждения: активная, размеры вентиляторов 120 x 120 мм, регулировка оборотов автоматическая. 
+Сертификат: 80 PLUS Gold. 
+Технологии защиты: OCP, OPP, OTP, OVP, SCP и UVP. 
+Сетевой кабель в комплекте: есть. 
+Комплектация: документация, крепёжный набор.
+[[back|рекламный]]]
+</div>
+
+
+:: блок питания2 {"position":"700,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/4fa006b3-ae53-4633-a5c0-93ae430dce6e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1231.PNG?previews[]=-256-preview@348x137" height='400'>
+<div class="transparent-box">
+<button id="button1">блок питания</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/8678ec31c0ce3330/blok-pitania-exegate-aaa350-es259589rus-s-seryj/";
+});
+</script>
+(text-colour:black)[характеристики
+---
+Мощность: 350 Вт. 
+Входное напряжение: 115–220 В. 
+Максимальный входной ток: 8 А. 
+Длина кабеля: 0,3 м. 1
+Размеры (ширина x высота x глубина): 150 x 86 x 110 мм. 
+Вес брутто: 0,75 кг.
+Охлаждение: 1 вентилятор диаметром 80 мм. 
+Уровень шума: 30–35 Дб. 
+Разъёмы: по одному разъёму 20 + 4 pin и 4 pin, 2 разъёма 15-pin SATA, 1 разъём 4-pin Molex.
+[[обратно|рабочий]]]
+</div>
+
+
+:: видеокарта {"position":"1700,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/6159cf37-1c30-4ecb-96b2-c3ac5dc3dad4/1122121.PNG?previews[]=-256-preview@345x139" height='400'>
+<div class="transparent-box">
+<button id="button1">видеокарта</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/762cea834881ed20/videokarta-gigabyte-amd-radeon-rx-7700-xt-gaming-oc-gv-r77xtgaming-oc-12gd/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Объём памяти: 12 ГБ. 
+Тип памяти: GDDR6. 
+Ширина шины памяти: 192 бит. 
+Частота шины памяти: 18000 МГц. 
+Интерфейсы: HDMI, DisplayPort. 
+Максимальное поддерживаемое разрешение: 7680x4320 8K UHD. 
+Количество поддерживаемых мониторов: 4. 
+Количество выходов HDMI: 2. 
+Количество выходов Display Port: 2. 
+Интерфейс подключения: PCI Express 4.0. 
+Коннекторы дополнительного питания: 8 pin + 8 pin. 
+Рекомендуемая мощность БП: 700 Вт. 
+Габариты и вес: количество занимаемых слотов — 3, длина — 302 мм, ширина — 130 мм, толщина — 56 мм, вес — 1200 г.
+[[back|рекламный]]]
+</div>
+
+
+:: выйти из новеллы {"position":"900,600","size":"100,100"}
+<script>
+window,close();
+</script>
+
+
+:: жесткий диск {"position":"500,1425","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/504a72c6-7d94-40e3-816c-e2dd2c037aea/11112312312.PNG?previews[]=-256-preview@456x153" height='400'>
+<div class="transparent-box">
+<button id="button1">жесткий диск</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://market.yandex.ru/product--wd1003fbyx/1779563528?sku=6322761&uniqueId=96004625&do-waremd5=cJ__a4gKzeFF8Kj9CvRskw&nid=54425";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Форм-фактор: 3.5". 14
+Объём: 1 ТБ. 14
+Объём буферной памяти: 64 МБ. 14
+Скорость вращения: 7200 об/мин. 14
+Скорость чтения: 300 МБ/с. 1
+Скорость записи: 300 МБ/с. 1
+Интерфейс: SATA2 3.0 Гбит/с. 1
+Время наработки на отказ: 1200000 часов. 1
+Потребляемая мощность: 5,9 Вт. 1
+Уровень шума (при работе): 2,8 дБ. 1
+Ударостойкость при работе: 30 G. 1
+Ударостойкость при хранении: 300 G. 1
+Размеры: 15010020 мм. 1
+Вес: 730 г.
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: жесткий диск1 {"position":"1500,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/d00d0882-9d9c-48a1-9be4-ff8c7621787b/123131221312.PNG?previews[]=-256-preview@343x136" height='400'>
+<div class="transparent-box">
+<button id="button1">жесткий диск</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/e5c434b640b2ed20/1-tb-zestkij-disk-seagate-barracuda-st1000dm014/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+форм-фактор: 3.5"; 
+интерфейс: SATA III; 
+максимальная скорость чтения: 156 МБ/с; 
+максимальная скорость записи: 156 МБ/с; 
+ударостойкость при работе: 80 G; 
+ударостойкость при хранении: 350 G; 
+потребляемая мощность: 5,3 Вт; 
+габариты с упаковкой: 150 × 110 × 30 мм; 
+вес с упаковкой: 500 г; 
+гарантия: 12 месяцев.]
+[[back|рекламный]]
+
+
+:: жесткий диск2 {"position":"600,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/504a72c6-7d94-40e3-816c-e2dd2c037aea/11112312312.PNG?previews[]=-256-preview@456x153" height='400'>
+<div class="transparent-box">
+<button id="button1">жесткий диск</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://market.yandex.ru/product--wd1003fbyx/1779563528?sku=6322761&uniqueId=96004625&do-waremd5=cJ__a4gKzeFF8Kj9CvRskw&nid=54425";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Форм-фактор: 3.5". 14
+Объём: 1 ТБ. 14
+Объём буферной памяти: 64 МБ. 14
+Скорость вращения: 7200 об/мин. 14
+Скорость чтения: 300 МБ/с. 1
+Скорость записи: 300 МБ/с. 1
+Интерфейс: SATA2 3.0 Гбит/с. 1
+Время наработки на отказ: 1200000 часов. 1
+Потребляемая мощность: 5,9 Вт. 1
+Уровень шума (при работе): 2,8 дБ. 1
+Ударостойкость при работе: 30 G. 1
+Ударостойкость при хранении: 300 G. 1
+Размеры: 15010020 мм. 1
+Вес: 730 г.
+[[обратно|рабочий]]]
+</div>
+
+
+:: заказать готовый {"position":"1200,300","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/6c54480a-0323-40b8-aac6-dfe7203773b4/11231232131.PNG?previews[]=-256-preview@344x143" height='400'>
+<img
+src= "https://ru.yougile.com/user-data/792d0489-e0d2-4c04-a474-c8feec006602/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3131132123123.PNG?previews[]=-256-preview@340x132" height='400'>
+<img
+src= "https://ru.yougile.com/user-data/37845508-8a1b-42c0-8dd7-c09eea0a2b65/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12313123131312.PNG?previews[]=-256-preview@338x126" height='400'>
+<img
+src= "https://ru.yougile.com/user-data/918231c8-ed15-4937-9eb9-1dfd98aacbe8/132131.PNG?previews[]=-256-preview@345x137" height='400'>
+<div class="transparent-box">
+(text-colour:black)[Вы решили пойти по легкому пути и заказать готовый компьютер из магазина. Этот компьютер является базовым по excel файлу который прилогался. Характеристики данного компьютера предоставлены на скриншот]
+<button id="button1">компьютер</button>
+<button id="button2">монитор</button>
+<button id="button3">клавиатура</button>
+<button id="button4">мышка</button>
+
+
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/user-pc/configuration/34f2df8f38d440a6/";
+});
+
+document.getElementById("button2").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/887c624916deed20/2145-monitor-dexp-df22n2s-cernyj/";
+});
+
+document.getElementById("button3").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/93cdade965a61b80/klaviatura-provodnaa-aceline-k-504bu/";
+});
+
+document.getElementById("button4").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/d1b854bc0b1ce933/mys-provodnaa-rapoo-n100c--cernyj/";
+});
+</script>
+[[обратно|start]]
+</div>
+
+
+:: клавиатура {"position":"800,1425","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/37845508-8a1b-42c0-8dd7-c09eea0a2b65/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12313123131312.PNG?previews[]=-256-preview@338x126" height='400'>
+<div class="transparent-box">
+<button id="button1">клавиатура</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/93cdade965a61b80/klaviatura-provodnaa-aceline-k-504bu/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Тип: мембранная. 
+Подключение: проводное. 
+Интерфейс подключения: USB. 
+Общее количество клавиш: 104, включая цифровой блок. 
+Кнопка Esc: выделена ярко-красным цветом. 
+Защита от попадания воды: есть (от брызг). 
+Длина кабеля: 1,45 м. 
+Вес: 402 г. 
+Цвет корпуса: чёрный. 
+Ножки клавиатуры: регулируются по высоте. 
+Раскладка клавиатуры: JIS. 
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: клавиатура1 {"position":"1600,1100","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/bee9303c-89ab-45bb-b301-7ca824f360e7/123.PNG?previews[]=-256-preview@345x136" height='400'>
+<div class="transparent-box">
+<button id="button1">клавиатура</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/23397d81cf9fed20/klaviatura-provodnaa-dark-prodzekt-kd83a-dp-kd-83a-308100-gsp/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Форм-фактор: компактный. 
+Количество клавиш: 83. 
+Переключатели: механические G3ms Sapphire с высокой чувствительностью на каждое нажатие и точностью срабатывания. 
+Подсветка: светодиодная RGB. 
+Подключение к ПК: при помощи кабеля с разъёмом USB. 
+Длина кабеля: 1,8 м. 
+Высота клавиатуры: 43 мм. 
+Ширина клавиатуры: 324 мм. 
+Глубина клавиатуры: 133 мм. 
+Вес: 1210 г.
+[[back|рекламный]]]
+</div>
+
+
+:: клавиатура2 {"position":"500,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/37845508-8a1b-42c0-8dd7-c09eea0a2b65/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12313123131312.PNG?previews[]=-256-preview@338x126" height='400'>
+<div class="transparent-box">
+<button id="button1">клавиатура</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/93cdade965a61b80/klaviatura-provodnaa-aceline-k-504bu/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Тип: мембранная. 
+Подключение: проводное. 
+Интерфейс подключения: USB. 
+Общее количество клавиш: 104, включая цифровой блок. 
+Кнопка Esc: выделена ярко-красным цветом. 
+Защита от попадания воды: есть (от брызг). 
+Длина кабеля: 1,45 м. 
+Вес: 402 г. 
+Цвет корпуса: чёрный. 
+Ножки клавиатуры: регулируются по высоте. 
+Раскладка клавиатуры: JIS. 
+[[обратно|рабочий]]]
+</div>
+
+
+:: клавиатурка {"position":"1325,125","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/6a021d2b-4904-4609-a2cf-8baf09f06cb3/image.png?previews[]=-256-preview@347x134" height='400'>
+<div class="transparent-box">
+<button id="button1">клавиатура</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/292918a4f50c3330/klaviatura-provodnaa-dexp-saber/?ysclid=m57sq667i7759153320&utm_medium=organic&utm_source=yandex&utm_referrer=https%3A%2F%2Fyandex.ru%2F";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Внешний вид: основной цвет — чёрный. 
+Тип клавиатуры: механическая. 
+Общее количество клавиш: 104. 
+Подсветка клавиш: есть, многоцветная. 
+Цифровой блок: есть. 
+Программируемые клавиши: есть. 
+Клавиша функции (Fn): есть. 
+Материал корпуса: металл. 
+Тип подключения: проводная, интерфейс — USB. 
+Длина кабеля: 1,5 м. 
+Вес: 923 г.
+[[назад|узнать характеристики текущего пк]]]
+
+
+:: коврик для мышки {"position":"1700,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/0334082c-328b-4c47-8fd1-d4b3b8cdf99e/11111.PNG?previews[]=-256-preview@345x139" height='400'>
+<div class="transparent-box">
+<button id="button1">коврик</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/a176b894a748ed20/kovrik-lamzu-energon--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Покрытие: speed. Позволяет быстро и точно обрабатывать каждое движение мыши в динамичных компьютерных играх и при работе в программах. 
+Материал: нейлон. Обеспечивает лёгкое скольжение и точное управление. 
+Размеры: 480×410 мм. 
+Толщина: 4 мм. 
+Прошитая окантовка по краю: не мешает манипулятору свободно скользить и гарантирует устойчивость изделия к повреждениям. 
+[[back|рекламный]]]
+</div>
+
+
+:: конец {"position":"700,500","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[благодарю за уделенное время!]
+[[выйти из новеллы]]
+</div>
+
+
+:: корпус {"position":"700,1425","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/0fc8571d-f687-4e48-a092-b01233733583/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12312312.PNG?previews[]=-256-preview@345x140" height='400'>
+<div class="transparent-box">
+<button id="button1">корпус</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/75a138feadcb1b80/korpus-dexp-dc-201m--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Типоразмер: Mini-Tower. 
+Форм-факторы совместимых материнских плат: Micro-ATX и Mini-ITX. 
+Совместимость с блоками питания: ATX. В комплект источник питания не входит. 
+Максимальная длина видеоадаптера: 300 мм. 
+Максимальная высота кулера процессора: 142 мм. 
+В базовую комплектацию корпуса не входят вентиляторы. Предусмотрена возможность установки двух вентиляторов (одного фронтального и одного тылового). 
+Габаритные размеры: 360x175x360 мм. 
+Масса модели: 3100 г. 
+Разъёмы: 3.5 мм jack (микрофон), USB 2.0 Type-A x2, 3.5 мм jack (аудио).
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: корпус1 {"position":"1600,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/af5b9070-ff01-4108-b64d-0630b0e3775c/121212212121.PNG?previews[]=-256-preview@345x139" height='400'>
+<div class="transparent-box">
+<button id="button1">корпус</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/5bac707ea902ed20/korpus-ardor-gaming-c305-v2--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Форм-фактор и габариты: Mid-Tower, длина — 425 мм, ширина — 308 мм, высота — 377 мм, вес — 8,8 кг. 
+Основной цвет: чёрный. 
+Материал корпуса: сталь, стекло. 
+Толщина металла: 0,8 мм. 
+Ориентация материнской платы: вертикально. 
+Форм-факторы совместимых плат: Standard-ATX, Micro-ATX, Mini-ITX. 
+Размещение блока питания: нижнее. Максимальная длина блока питания — 200 мм. 
+Горизонтальные слоты расширения: 7. 
+Вертикальные слоты расширения: 3. 
+Максимальная длина устанавливаемой видеокарты: 400 мм. 
+Максимальная высота процессорного кулера: 180 мм. 
+Количество отсеков 2.5" накопителей: 2 шт.. 
+Разъёмы и интерфейсы лицевой панели: USB 2.0 Type-A x2, 3.5 мм jack (микрофон), 3.5 мм jack (аудио), USB 3.2 Gen 1 Type-C. 
+Наличие пылевого фильтра: есть.
+[[back|рекламный]]]
+</div>
+
+
+:: корпус2 {"position":"700,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/0fc8571d-f687-4e48-a092-b01233733583/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12312312.PNG?previews[]=-256-preview@345x140" height='400'>
+<div class="transparent-box">
+<button id="button1">корпус</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/75a138feadcb1b80/korpus-dexp-dc-201m--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Типоразмер: Mini-Tower. 
+Форм-факторы совместимых материнских плат: Micro-ATX и Mini-ITX. 
+Совместимость с блоками питания: ATX. В комплект источник питания не входит. 
+Максимальная длина видеоадаптера: 300 мм. 
+Максимальная высота кулера процессора: 142 мм. 
+В базовую комплектацию корпуса не входят вентиляторы. Предусмотрена возможность установки двух вентиляторов (одного фронтального и одного тылового). 
+Габаритные размеры: 360x175x360 мм. 
+Масса модели: 3100 г. 
+Разъёмы: 3.5 мм jack (микрофон), USB 2.0 Type-A x2, 3.5 мм jack (аудио).
+[[обратно|рабочий]]]
+</div>
+
+
+:: кулер {"position":"900,1425","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/003c563c-a268-4f18-8aad-0bc0ef1c0469/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2222.PNG?previews[]=-256-preview@346x135" height='400'>
+<div class="transparent-box">
+<button id="button1">кулер</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/cd54a8497a80ed20/kuler-dla-processora-id-cooling-dk-01t-lga1700/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Максимальная рассеиваемая мощность (TDP): 95 Вт. 
+Сокеты процессора: AM2, AM2+, AM3, AM3+, FM1, FM2, LGA 1150, LGA 1151, LGA 1151-v2, LGA 1155, LGA 1156, LGA 1200, LGA 775. 
+Материал радиатора: алюминий. 
+Количество вентиляторов: 1. 
+Диаметр вентилятора: 92 мм. 
+Толщина вентилятора: 25 мм. 
+Скорость вращения: 2200 об/мин. 
+Воздушный поток: 38,5 CFM. 
+Уровень шума: 23,8 дБ. 
+Тип подшипника: гидродинамический. 
+Тип коннектора: 3-pin. 
+Размеры кулера (ШхВxГ): 110x52x110 мм. 
+Вес: 230 г. ]
+[[обратно|самый дешевый]]
+</div>
+
+
+:: кулер1 {"position":"1400,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/4b173824-01c5-4063-b222-9549e59a9264/312132123123123123.PNG?previews[]=-256-preview@344x144" height='400'>
+<div class="transparent-box">
+<button id="button1">Система жидкосного охлаждения</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/a9b43b28ff68ed20/sistema-okhlazdenia-cougar-poseidon-elite-360-argb/";  
+});
+</script>
+(text-colour:black)[характеристика
+---
+Совместимый сокет: AM2, AM3, AM4, AM5, FM1, FM2, LGA 1150, LGA 1151, LGA 1151-v2, LGA 1155, LGA 1156, LGA 1200, LGA 1366, LGA 1700, LGA 1851. 4
+Количество вентиляторов: 3. 
+Размер вентилятора: 120 мм. 
+Скорость вращения: 500–2200 об/мин. 
+Уровень шума: 33,5 дБ. 
+Размер радиатора (ВxШxГ): 121x392x27 мм. 
+Материал радиатора: алюминий. 
+Размер водоблока (ВxШxГ): 82,9x73,3x50,7 мм. 
+Материал водоблока: медь. 
+Подсветка: ARGB. 
+Разъём питания вентилятора: 4-pin. 
+Разъём питания помпы: 3-pin. 
+Регулировка оборотов: PWM. 
+Тип подшипника: гидродинамический. 
+[[back|рекламный]]]
+</div>
+
+
+:: кулер2 {"position":"800,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/003c563c-a268-4f18-8aad-0bc0ef1c0469/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2222.PNG?previews[]=-256-preview@346x135" height='400'>
+<div class="transparent-box">
+<button id="button1">кулер</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/cd54a8497a80ed20/kuler-dla-processora-id-cooling-dk-01t-lga1700/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Максимальная рассеиваемая мощность (TDP): 95 Вт. 
+Сокеты процессора: AM2, AM2+, AM3, AM3+, FM1, FM2, LGA 1150, LGA 1151, LGA 1151-v2, LGA 1155, LGA 1156, LGA 1200, LGA 775. 
+Материал радиатора: алюминий. 
+Количество вентиляторов: 1. 
+Диаметр вентилятора: 92 мм. 
+Толщина вентилятора: 25 мм. 
+Скорость вращения: 2200 об/мин. 
+Воздушный поток: 38,5 CFM. 
+Уровень шума: 23,8 дБ. 
+Тип подшипника: гидродинамический. 
+Тип коннектора: 3-pin. 
+Размеры кулера (ШхВxГ): 110x52x110 мм. 
+Вес: 230 г. ]
+[[обратно|рабочий]]
+</div>
+
+
+:: материнская плата {"position":"600,1425","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/e9df64cc-015c-40cc-9d81-24150af37299/11.PNG?previews[]=-256-preview@345x143" height='400'>
+<div class="transparent-box">
+<button id="button1">материнская плата</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/72935df59b88ed20/materinskaa-plata-biostar-b450mhp/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+форм-фактор: Micro-ATX; 
+чипсет: AMD B450; 
+сокет: AM4; 
+количество слотов памяти: 2; 
+тип памяти: DDR4; 
+поддерживаемые частоты памяти: 2933 ГГц; 
+количество и тип слотов расширения: PCI-e x16 — 1, PCI-e x1 — 2; 
+количество слотов M.2: 1; 
+количество слотов SATA: 4; 
+сетевой адаптер: 1 Гбит/с; 
+звуковой кодек: 7.1-канальный; 
+размеры: высота — 24,4 см, ширина — 19,8 см, длина — 5 см; 
+вес: 1 кг.
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: материнская плата1 {"position":"1600,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/380a1005-1dec-40f9-a093-e1f7dd0c1e2a/31312312312312132132.PNG?previews[]=-256-preview@346x135">
+<button id="button1">материнская плата</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/447de6204511ed20/materinskaa-plata-gigabyte-b650m-aorus-elite-ax/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Форм-фактор: Micro-ATX. 
+Процессорный разъём: AM5. 
+Чипсет: AMD B650. 
+Оперативная память: 4 слота, тип — DDR5, частота — 5200 МГц. Максимальный объём оперативной памяти — 128 ГБ. 
+Слоты расширения: 2 слота PCI-E x16 для графических карт. 
+Разъёмы M.2: 2. 
+Разъёмы SATA: 4. 
+Сетевой интерфейс: LAN 2,5 Гбит/с. 
+Модуль беспроводной синхронизации: есть, поддержка Wi-Fi и Bluetooth. 
+На боковой стороне: порты USB Type-A и Type-C, видеовыходы DisplayPort и HDMI, разъёмы аудио 3,5 мм. 
+Кнопка Flash BIOS: есть, позволяет выполнять настройки в системе BIOS. 
+Охлаждение: пассивное. 
+Размеры: высота — 244 мм, ширина — 244 мм. 
+Вес: 1,3 кг.
+[[back|рекламный]]]
+
+
+:: материнская плата2 {"position":"400,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/e9df64cc-015c-40cc-9d81-24150af37299/11.PNG?previews[]=-256-preview@345x143" height='400'>
+<div class="transparent-box">
+<button id="button1">материнская плата</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/72935df59b88ed20/materinskaa-plata-biostar-b450mhp/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+форм-фактор: Micro-ATX; 
+чипсет: AMD B450; 
+сокет: AM4; 
+количество слотов памяти: 2; 
+тип памяти: DDR4; 
+поддерживаемые частоты памяти: 2933 ГГц; 
+количество и тип слотов расширения: PCI-e x16 — 1, PCI-e x1 — 2; 
+количество слотов M.2: 1; 
+количество слотов SATA: 4; 
+сетевой адаптер: 1 Гбит/с; 
+звуковой кодек: 7.1-канальный; 
+размеры: высота — 24,4 см, ширина — 19,8 см, длина — 5 см; 
+вес: 1 кг.
+[[обратно|рабочий]]]
+</div>
+
+
+:: микрофон {"position":"1700,1100","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/611caceb-3809-4a75-9d0e-02df820a02ef/121211212.PNG?previews[]=-256-preview@345x142" height='400'>
+<div class="transparent-box">
+<button id="button1">микрофон</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/ec0ecaee5f09ed20/mikrofon-fifine-ampligame-a6-cernyj/"; 
+});
+</script>
+(text-colour:black)[характеристики
+---
+Принцип действия: конденсаторный. 
+Направленность: кардиоидная. 
+Чувствительность: -40 дБ. 
+Минимальная частота: 60 Гц. 
+Максимальная частота: 18000 Гц. 
+Частота дискретизации: 24 бит/192 кГц. 
+Разъёмы: USB Type-C. 
+Кнопка отключения микрофона: есть. 
+Подсветка: есть. 
+Съёмный кабель: есть. 
+Питание: от USB, напряжение 5 В. 
+Капсюль: 16 мм.
+[[back|рекламный]]]
+</div>
+
+
+:: микрофончик {"position":"900,200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/04e55fb6-dece-478f-9773-d1600dd9822c/image.png?previews[]=-256-preview@340x136" height='400'>
+<div class="transparent-box">
+<button id="button1">микрофон</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/2c545f94ac252ff4/mikrofon-defender-mic-111-seryj/?ysclid=m57t1esev3995678025"; 
+});
+</script>
+(text-colour:black)[характеристики
+---
+Тип: конденсаторный, всенаправленный, настольный, проводной. 
+Частотный диапазон: 20Гц–13КГц. 
+Сопротивление: 220 Ом. 
+Чувствительность: 54 дБ. 
+Длина провода: 1,5 м. 
+Назначение: для конференцсвязи. 
+Конструкция: на гибкой ножке, лёгкая установка, для работы не нужны драйверы. 
+Цвет: серый. 
+Ширина: 60 мм. 
+Высота: 300 мм. 
+Вес: 100 грамм. 
+Гарантийный срок: 6 месяцев.
+[[назад|узнать характеристики текущего пк]]]
+
+
+:: монитоор {"position":"800,1325","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/792d0489-e0d2-4c04-a474-c8feec006602/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3131132123123.PNG?previews[]=-256-preview@340x132" height='400'>
+<div class="transparent-box">
+<button id="button1">монитор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/887c624916deed20/2145-monitor-dexp-df22n2s-cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Диагональ: 21,45". 
+Разрешение: 1920x1080 Full HD. 
+Матрица: VA. 
+Максимальная частота обновления: 75 Гц. 
+Яркость: 250 кд/м². 
+Контрастность: 3000:1. 
+Соотношение сторон: 16:9. 
+Покрытие экрана: матовое. 
+Время отклика: 5 мс. 
+Углы обзора: 178°/178°. 
+Плотность пикселей: 103 ppi. 
+Технология HDR: есть. 
+Потребляемая мощность: 30 Вт. 
+Разъёмы: HDMI, VGA (D-Sub).
+Выход на наушники: есть. 
+Встроенная акустическая система: есть, мощность динамиков: 2 x 2 Вт. 
+Размеры: 492X380X42 мм. 
+Вес: 1,77 кг (без подставки), 2,04 кг (с подставкой).
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: монитоор1 {"position":"1600,1200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/b34b232d-93df-4a51-8ac0-82d56f9ce722/2132132132132.PNG?previews[]=-256-preview@345x139" height='400'>
+<div class="transparent-box">
+<button id="button1">монитор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/1ce67b2a53b5d582/238-monitor-benq-mobiuz-ex240n-cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Диагональ: 23,8". 
+Соотношение сторон: 16:9. 
+Тип панели: VA. 
+Разрешение экрана: 1920x1080 (Full HD). 
+Яркость: 250 кд/м². 
+Статическая контрастность: 3000:1. 
+Углы обзора: 178°/178°. 
+Частота обновления: 165 Гц. 
+Время отклика: 1 мс. 
+Разъёмы: HDMI, DisplayPort, выход на наушники. 
+Встроенные динамики: есть. 
+Цвет: тёмно-серый. 
+Вес: 4,3 кг. 
+Физический размер с подставкой: 421,7 x 540 x 182,6 мм. 
+Физический размер без подставки: 344,9x540x67,7 мм.
+[[back|рекламный]]]
+</div>
+
+
+:: монитоор2 {"position":"1500,1200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/9445b06e-1aaf-4b1d-89ca-bdb32d2f80c9/12121212.PNG?previews[]=-256-preview@343x141" height='400'>
+<div class="transparent-box">
+<button id="button1">монитор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/734608aceb4eed20/24-monitor-samsung-s3-s33gc-s24c330gai-cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Разрешение: 1920x1080. 
+Частота обновления: 100 Гц. 
+Тип матрицы: IPS. 
+Яркость: 250 кд/м² (типичное значение), 200 кд/м² (минимальное). 
+Контрастность: 1000:1 (типичное значение). 
+Время отклика: 4 мс (GtG). 
+Углы обзора: 178°/178°. 
+Разъёмы: DisplayPort 1.2, HDMI 1.4. 
+Технология AMD FreeSync: есть. 
+Монитор оснащён настольной подставкой, совместим с настенным креплением VESA 100.
+[[back|рекламный]]]
+</div>
+
+
+:: монитор2 {"position":"400,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/792d0489-e0d2-4c04-a474-c8feec006602/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3131132123123.PNG?previews[]=-256-preview@340x132" height='400'>
+<div class="transparent-box">
+<button id="button1">монитор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/887c624916deed20/2145-monitor-dexp-df22n2s-cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Диагональ: 21,45". 
+Разрешение: 1920x1080 Full HD. 
+Матрица: VA. 
+Максимальная частота обновления: 75 Гц. 
+Яркость: 250 кд/м². 
+Контрастность: 3000:1. 
+Соотношение сторон: 16:9. 
+Покрытие экрана: матовое. 
+Время отклика: 5 мс. 
+Углы обзора: 178°/178°. 
+Плотность пикселей: 103 ppi. 
+Технология HDR: есть. 
+Потребляемая мощность: 30 Вт. 
+Разъёмы: HDMI, VGA (D-Sub).
+Выход на наушники: есть. 
+Встроенная акустическая система: есть, мощность динамиков: 2 x 2 Вт. 
+Размеры: 492X380X42 мм. 
+Вес: 1,77 кг (без подставки), 2,04 кг (с подставкой).
+[[обратно|рабочий]]]
+</div>
+
+
+:: моониторчик {"position":"1000,75","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/386de5c0-d06f-4391-96df-965090bca149/image.png?previews[]=-256-preview@384x161" height='400'>
+<div class="transparent-box">
+<button id="button1">монитор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.citilink.ru/product/monitor-acer-sb241yhbi-23-8-chernyi-um-qs1ee-h01-1942554/?ysclid=m57sy75snc290196757";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Экран: 23.8 ", 1920x1080, 16:9, VA, 100 Гц, 250 кд/м2, 1 мс, GTG 4 мс, AMD FreeSync
+Контрастность: статическая 3000:1, динамическая 100000000:1
+Разъемы: HDMI x 1, VGA (D-SUB) х 1
+Блок питания: внешний
+Конструктив: регулировка наклона, крепление VESA отсутствует
+[[назад|узнать характеристики текущего пк]]]
+
+
+:: мышка {"position":"600,1325","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/918231c8-ed15-4937-9eb9-1dfd98aacbe8/132131.PNG?previews[]=-256-preview@345x137" height='400'>
+<div class="transparent-box">
+<button id="button1">мышка</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/d1b854bc0b1ce933/mys-provodnaa-rapoo-n100c--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Оптический сенсор. Обеспечивает плавное и точное перемещение курсора по любой поверхности. 
+Проводное соединение. Мышь подключается через стандартный USB Type-C порт. 
+Эргономичный дизайн. Форма мыши разработана с учётом анатомии руки, что снижает усталость даже при длительной работе. 
+Универсальная совместимость. Мышь совместима с различными операционными системами, включая Windows, Mac OS и Linux. 
+Три кнопки + колесо прокрутки. Классические функции управления плюс возможность быстрого скроллинга и перехода между страницами. 
+Вес 66 грамм. 
+Интерфейс подключения: USB. 
+Длина кабеля: 1,5 метра.
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: мышка1 {"position":"1500,1100","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/9da17f0a-3c93-4882-863b-9e5c006a7f8d/111.PNG?previews[]=-256-preview@343x141" height='400'>
+<div class="transparent-box">
+<button id="button1">мышка</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/58dc59b2a064ed20/mys-besprovodnaaprovodnaa-lamzu-atlantis-mini--belyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Тип соединения: беспроводная, проводная. 
+Интерфейс: USB Type-C, радиоканал. 
+Максимальное разрешение датчика: 26000 dpi. 
+Количество кнопок: 6. 
+Дополнительные клавиши: вперёд/назад. 
+Конструкция: вертикальная, колесо прокрутки есть. 
+Подсветка: отсутствует. 
+Размеры: 68×38×123 мм. 
+Вес: 49 г. 
+Время работы от батарей: до 70 часов. 
+Ёмкость аккумулятора: 250 мА·ч.
+[[back|рекламный]]]
+</div>
+
+
+:: мышка2 {"position":"800,1000","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/918231c8-ed15-4937-9eb9-1dfd98aacbe8/132131.PNG?previews[]=-256-preview@345x137" height='400'>
+<div class="transparent-box">
+<button id="button1">мышка</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/d1b854bc0b1ce933/mys-provodnaa-rapoo-n100c--cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Оптический сенсор. Обеспечивает плавное и точное перемещение курсора по любой поверхности. 
+Проводное соединение. Мышь подключается через стандартный USB Type-C порт. 
+Эргономичный дизайн. Форма мыши разработана с учётом анатомии руки, что снижает усталость даже при длительной работе. 
+Универсальная совместимость. Мышь совместима с различными операционными системами, включая Windows, Mac OS и Linux. 
+Три кнопки + колесо прокрутки. Классические функции управления плюс возможность быстрого скроллинга и перехода между страницами. 
+Вес 66 грамм. 
+Интерфейс подключения: USB. 
+Длина кабеля: 1,5 метра.
+[[обратно|рабочий]]]
+</div>
+
+
+:: наушники {"position":"1700,1200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/0ba03385-1e78-433d-82a4-d8fb3259dafa/1121212.PNG?previews[]=-256-preview@346x131" height='400'>
+<div class="transparent-box">
+<button id="button1">наушники</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/a54441621c01d582/besprovodnye-nausniki-dark-prodzekt-hs5-wireless-v2-cernyj/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Звуковые характеристики. Наушники оснащены 50-миллиметровыми динамиками с композитной мембраной и неодимовым магнитом, что обеспечивает качественное звучание и насыщенные басы. Частотный диапазон — от 20 Гц до 20 000 Гц. 
+Подключение. Наушники поддерживают Bluetooth 5.2 и радиоканал 2.4 ГГц, что обеспечивает стабильное и бесперебойное подключение к различным устройствам, включая ПК, PlayStation, смартфоны и планшеты. 
+Микрофон. Складной Flip-To-Mute широкочастотный микрофон обеспечивает чёткое и чистое звучание голоса во время игры или общения. 
+Автономность. Время работы от одного заряда — 18 часов. Время полной зарядки — 2 часа. 
+Вес. 310 г. 
+[[back|рекламный]]]
+</div>
+
+
+:: оперативная память {"position":"500,1325","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/271684ce-b914-4694-bda4-7b9a069100e7/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12.PNG?previews[]=-256-preview@344x129" height='400'>
+<div class="transparent-box">
+<button id="button1">оперативная память</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/e477c45146d03330/operativnaa-pamat-patriot-signature-line-psd416g2666k-16-gb/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+объём: 8 ГБ; 
+частота: 3200 МГц; 
+тип: DDR4; 
+пропускная способность: 25600 МБ/с; 
+напряжение питания: не превышает 1,2 В; 
+корпус формата DIMM, высота — 37 мм; 
+наличие радиатора пассивного охлаждения. 
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: оперативная память1 {"position":"1500,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/2f12c09f-7650-4b44-b0d8-72d01f7d63f0/12312132132132123312123.PNG?previews[]=-256-preview@344x131" height='400'>
+<div class="transparent-box">
+<button id="button1">оперативная память</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/3478f68c87faed20/operativnaa-pamat-adata-xpg-lancer-ax5u5200c388g-dclabk-16-gb/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Модель AX5U7200C3416G-DCLARBK. Количество модулей в комплекте — 2 шт., суммарный объём — 32 ГБ. Частота оперативной памяти — 7200 МГц, тип — DDR5, напряжение — 1,4 В. Объём одного модуля — 16 ГБ. 
+Модель AX5U5200C3816G-DCLAWH. Количество модулей в комплекте — 2 шт., объём одного модуля — 16 ГБ, тактовая частота — 5200 МГц. 
+Оперативная память ADATA XPG Lancer оснащена интегрированной схемой управления питанием (PMIC) и кодом исправления ошибок (ECC) для улучшенной производительности и стабильности. Для эффективного охлаждения при разных нагрузках в ней установлены радиаторы из алюминия.
+[[back|рекламный]]]
+</div>
+
+
+:: оперативная память2 {"position":"600,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/271684ce-b914-4694-bda4-7b9a069100e7/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12.PNG?previews[]=-256-preview@344x129" height='400'>
+<div class="transparent-box">
+<button id="button1">оперативная память</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/e477c45146d03330/operativnaa-pamat-patriot-signature-line-psd416g2666k-16-gb/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+объём: 8 ГБ; 
+частота: 3200 МГц; 
+тип: DDR4; 
+пропускная способность: 25600 МБ/с; 
+напряжение питания: не превышает 1,2 В; 
+корпус формата DIMM, высота — 37 мм; 
+наличие радиатора пассивного охлаждения. 
+[[обратно|рабочий]]]
+</div>
+
+
+:: процессор {"position":"900,1325","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/b079e31f-492d-4a69-a652-0bac8984db40/213113213.PNG?previews[]=-256-preview@345x141" height='400'>
+<div class="transparent-box">
+<button id="button1">процессор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/84c5925ffbf33330/processor-amd-ryzen-5-2400g-oem/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Архитектура: Zen. 
+Ядро: Raven Ridge. 
+Количество ядер: 4. 
+Количество потоков: 8. 
+Техпроцесс: 14 нм. 
+Базовая частота: 3,6 ГГц.
+Максимальная частота в режиме Turbo Boost: 3,9 ГГц. 
+Интегрированное графическое ядро: есть, модель — Radeon Vega 11. 
+Максимальная частота графического ядра: 1250 МГц. 
+Максимальный объём оперативной памяти: 64 ГБ, частота — 2933 МГц. 
+Тепловыделение: 65 Вт. 
+Максимальная рабочая температура: 95 °C.
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: процессор1 {"position":"1400,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/3201c4de-7524-4208-a60c-cc6d50b7cab5/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA12312123123123.PNG?previews[]=-256-preview@345x1411" height='400'>
+<div class="transparent-box">
+<button id="button1">процессор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/de177556e959ed20/processor-amd-ryzen-7-7700-oem/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Количество ядер: 8. 
+Количество потоков: 16. 
+Объём кэша L2: 8 МБ. 
+Объём кэша L3: 32 МБ. 
+Частота процессора: 3,8 ГГц. 
+Частота в режиме Turbo: 5,3 ГГц. 
+Тип памяти: DDR5. 
+Максимальный объём памяти: 128 ГБ. 
+Базовая мощность процессора: 65 Вт. 
+Максимальная температура процессора: 95 °C. 
+Интегрированное графическое ядро: есть, модель AMD Radeon Graphics, максимальная частота графического ядра — 2200 МГц
+[[back|рекламный]]]
+</div>
+
+
+:: процессор2 {"position":"500,900","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/b079e31f-492d-4a69-a652-0bac8984db40/213113213.PNG?previews[]=-256-preview@345x141" height='400'>
+<div class="transparent-box">
+<button id="button1">процессор</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.dns-shop.ru/product/84c5925ffbf33330/processor-amd-ryzen-5-2400g-oem/";  
+});
+</script>
+(text-colour:black)[характеристики
+---
+Архитектура: Zen. 
+Ядро: Raven Ridge. 
+Количество ядер: 4. 
+Количество потоков: 8. 
+Техпроцесс: 14 нм. 
+Базовая частота: 3,6 ГГц.
+Максимальная частота в режиме Turbo Boost: 3,9 ГГц. 
+Интегрированное графическое ядро: есть, модель — Radeon Vega 11. 
+Максимальная частота графического ядра: 1250 МГц. 
+Максимальный объём оперативной памяти: 64 ГБ, частота — 2933 МГц. 
+Тепловыделение: 65 Вт. 
+Максимальная рабочая температура: 95 °C.
+[[обратно|рабочий]]]
+</div>
+
+
+:: рабочий {"position":"700,700","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем и собирем тот компьютер который нужен для сдачи демоэкзамена. Он обошелся в 24.000 рублей как и было в условии все уложено в 600.000 тысяч, он едентичен самому дешевому компьютеру, так как бюджет ограничен.]
+(text-colour:black)[
+[[материнская плата2]]
+[[процессор2]]
+[[оперативная память2]]
+[[блок питания2]]
+[[кулер2]]
+[[жесткий диск2]]
+[[корпус2]]
+[[монитор2]]
+[[мышка2]]
+[[клавиатура2]]
+[[soft]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: рассмотреть готовый {"position":"1200,475","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[
+[[заказать готовый]]]
+</div>
+
+
+:: рекламный {"position":"1300,800","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем рекламный (дорогой) компьютер. Он вышел в 233.000 рублей. можнео сказать это то что стоит у меня дома :)]
+(text-colour:black)[
+[[материнская плата1]]
+[[процессор1]]
+[[оперативная память1]]
+[[блок питания1]]
+[[кулер1]]
+[[жесткий диск1]]
+[[ssd m.2]]
+[[корпус1]]
+[[монитоор1]]
+[[монитоор2]]
+[[мышка1]]
+[[клавиатура1]]
+[[видеокарта]]
+[[коврик для мышки]]
+[[микрофон]]
+[[наушники]]
+[[софт]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: самый дешевый {"position":"1000,1000","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем самый дешевый компьютер, который можно собрать. Он вышел в 24.000 тысяч рублей.]
+(text-colour:black)[
+[[материнская плата]]
+[[процессор]]
+[[оперативная память]]
+[[блок питания]]
+[[кулер]]
+[[жесткий диск]]
+[[корпус]]
+[[монитоор]]
+[[мышка]]
+[[клавиатура]]
+[[soft]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: собрать новый пк {"position":"1050,475","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[Какая сборка вас интересует?
+[[рассмотреть готовый]]
+[[собрать по частям]]
+[[back|start]]]
+</div>
+
+
+:: собрать по частям {"position":"1000,700","size":"100,100"}
+<div class="transparent-box">
+[[самый дешевый]]
+[[рекламный]]
+[[рабочий]]
+[[обратно в начало|собрать новый пк]]
+</div>
+
+
+:: софт {"position":"1550,800","size":"100,100"}
+<div class="transparent-box">
+<button id="button1">Windows</button>
+<script>
+document.getElementById("button1").addEventListener("click", function() {
+    window.location.href = "https://www.microsoft.com/ru-ru/download/windows";  
+});
+</script>
+(text-colour:black)[Так как это рекламный компьютер то на нем установлена Windows система.
+[[back|рекламный]]]
+</div>
+
+
+:: узнать характеристики текущего пк {"position":"1025,200","size":"100,100"}
+<img
+src= "https://ru.yougile.com/user-data/867e6e34-dd4a-40c1-b0e2-b0488134ce25/image.png?previews[]=-256-preview@340x301" height='400'>
+<div class="transparent-box">
+(text-colour:black)[тут прописывается компьютер характеристики компьютера за которым я работаю в аудитории.
+[[Мышка]]
+[[клавиатурка]]
+[[моониторчик]]
+[[микрофончик]]
+[[назад|start]]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-story{
+  background-image:url("https://avatars.mds.yandex.net/i?id=ce804fb5655baa6da2e45719e54e24b1_l-5874318-images-thumbs&n=13");
+  background-size:cover;
+}
+
+.transparent-box {
+border: 5px solid rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+padding: 20px;
+background-color: rgba(255, 255, 255, 0.8);
+}
+
+<style>
+    .button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    .button:hover {
+        background-color: #45a049;
+    }
